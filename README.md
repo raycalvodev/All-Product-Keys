@@ -1,4 +1,13 @@
 # All-Product-Keys
+[Please Star this gist]
+Follow My Account --> https://github.com/raycalvodev
+
+Visual Studio 2019 Enterprise
+BF8Y8-GN2QH-T84XB-QVY3B-RC4DF
+
+Visual Studio 2019 Professional
+NYWVH-HT4XC-R2WYW-9Y3CM-X4V3Y
+
 Seriales
 Free SQL Server 2008~2022 Product Key
 These are free SQL Server product keys of all editions for non-commercial use, If you need more for retail edition,you can get your own SQL product keys from keyingo.com
